@@ -26,7 +26,7 @@ a:hover::after {
 
 a:focus {
   color: pink;
-  text-decoration: ;
+  /* text-decoration: ; */
 }
 
 a:focus::after {
